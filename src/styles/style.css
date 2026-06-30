@@ -80,7 +80,7 @@ h2 {
     background-color: var(--White);
     height: auto;
     width: 100%;
-    max-width: 736px;
+    max-width: 46rem;
     display: flex;
     flex-direction: column;
 }
