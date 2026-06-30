@@ -1,0 +1,27 @@
+@media screen and (min-width: 481px) {
+    .container {
+        padding: 50px;
+    }
+
+    .recipe {
+        width: 85%;
+        border-radius: 15px;
+        padding-bottom: 2rem;
+    }
+
+    .recipe__image {
+        border-radius: 10px;
+        overflow: hidden;
+        width: 90%;
+        margin: 2rem  auto;
+    }
+
+    img {
+        display: block;
+        width: 100%;
+    }
+
+    .text__container {
+        padding: 0.1rem 0;
+    }
+}
